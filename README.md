@@ -11,7 +11,6 @@ The dashboard is designed to make the data easy to understand through interactiv
 - Power BI
 - Power Query
 - DAX
-- Excel
 
 ## Dashboard Pages
 
