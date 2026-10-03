@@ -1,39 +1,59 @@
 # Uber Ride Analysis – Power BI Dashboard
 
-This project contains an interactive Power BI dashboard created using Uber ride data.
+## About the Project
+
+I created this Power BI project to analyze Uber ride booking data and understand booking trends, revenue, vehicle performance, customer behavior, and payment methods.
+
+The dashboard is designed to make the data easy to understand through interactive visuals and key performance indicators.
 
 ## Tools Used
 
 - Power BI
 - Power Query
+- DAX
+- Excel
 
-## Project Work
+## Dashboard Pages
 
-- Data preparation and transformation
-- Uber ride data analysis
-- KPI creation
-- Interactive charts and visuals
-- Filters and slicers
-- Power BI dashboard development
+### 1. Home
+The home page gives a quick introduction to the project and provides navigation to the different analysis sections.
 
-## Dashboard
+### 2. Overview
+This page shows the overall booking performance, completed and lost bookings, revenue, distance, and customer ratings.
 
-The dashboard provides an interactive view of Uber ride data and helps in understanding important ride patterns and trends.
+### 3. Vehicle Analysis
+This page compares different vehicle types based on revenue, completed bookings, lost bookings, and average distance.
 
-### Dashboard Preview
+### 4. Revenue Analysis
+This page focuses on revenue trends, payment methods, vehicle-wise revenue, and customer-wise revenue.
 
-<!-- Dashboard screenshot will be added here -->
+## Key Analysis
 
-## Project File
+- Total completed and lost bookings
+- Revenue generated from different vehicle types
+- Monthly revenue trends
+- Payment method analysis
+- Average customer and driver ratings
+- Vehicle-wise booking performance
+- Distance analysis
+- Customer-wise revenue
 
-The Power BI dashboard file is available in the `PowerBI` folder.
+## Screenshots
 
-## Current Project Status
+### Home Page
+![Home Page](dashboard-home.png)
 
-Power BI Dashboard – Completed ✅
+### Overview
+![Overview](dashboard-overview.png)
 
-## Author
+### Vehicle Analysis
+![Vehicle Analysis](dashboard-vehicle-analysis.png)
 
-**Rohit Kumar Shah**
+### Revenue Analysis
+![Revenue Analysis](dashboard-revenue-analysis.png)
 
-B.Tech CSE | Aspiring Data Analyst
+## Conclusion
+
+This project helped me practice data cleaning, data transformation, data visualization, and dashboard development using Power BI.
+
+It also helped me understand how business data can be converted into useful insights for decision-making.
